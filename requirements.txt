@@ -1,0 +1,17 @@
+
+* Web API
+    [] It should have an endpoint for storing medicine data
+    [] It should have an endpoint for retrieving medicine data
+    [] It should have an endpoint for updating medicine data
+    [] It should have an endpoint for deleting medicine data
+    [] It should test when the application throws an error.
+
+* Integration / E2E
+    => MoMo-API
+		
+    => Unit
+        [] It should test the endpoint for storing medicine data
+        [] It should test the endpoint for retrieving medicine data
+        [] It should test the endpoint for updating medicine data
+        [] It should test the endpoint for deleting medicine data
+        [] It should test when the application throws an error

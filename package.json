@@ -1,0 +1,19 @@
+{
+  "name": "med-api",
+  "version": "1.0.0",
+  "description": "Medication API for MTN MoMo Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Peace Browne\"",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
